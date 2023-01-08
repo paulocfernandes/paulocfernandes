@@ -1,7 +1,6 @@
 ### Olá!👋 Sou Paulo Fernandes  👋 
 - Atualmente fazendo curso de FullStack na Digital Collage
-- Estutando de forma autonoma 
-HTML CSS JavaScript React 
+
 <div align="center">
   <a href="https://github.com/paulocfernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulocfernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
