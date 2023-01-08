@@ -1,5 +1,6 @@
 ### Olá!👋 Sou Paulo Fernandes  👋 
 - Atualmente fazendo curso de FullStack na Digital Collage
+- Iniciando no mundo da programação
 
 <div align="center">
   <a href="https://github.com/paulocfernandes">
